@@ -6,11 +6,12 @@ will show you the players in your game, their rank, their spells, and their wins
 Some things I used to create this program:
 
 Scenebuilder
+
 JavaFX
+
 Multi Dimensional Arrays
+
 GSON
+
 JSON
-
-
-![alt text](https://imgur.com/a/I7uridq)
 
