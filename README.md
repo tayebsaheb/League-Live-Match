@@ -22,7 +22,6 @@ Note** If you try to download this and run it , it will not run, the API key use
 
 <img width="717" alt="screen shot 2018-10-21 at 11 53 49 pm" src="https://user-images.githubusercontent.com/23414656/47306910-ae257c80-d5fb-11e8-86da-9daf0071254d.png">
 
-<img width="717" alt="screen shot 2018-10-21 at 11 54 15 pm" src="https://user-images.githubusercontent.com/23414656/47306924-b382c700-d5fb-11e8-8e18-89b9dc73d908.png">
 
 <img width="717" alt="screen shot 2018-10-22 at 1 32 48 am" src="https://user-images.githubusercontent.com/23414656/47306872-9bab4300-d5fb-11e8-8246-d80e1985ded3.png">
 
