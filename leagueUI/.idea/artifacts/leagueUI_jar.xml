@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="leagueUI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/leagueUI_jar</output-path>
+    <root id="archive" name="leagueUI.jar">
+      <element id="module-output" name="leagueUI" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/gson-2.8.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
