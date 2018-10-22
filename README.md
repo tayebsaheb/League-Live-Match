@@ -15,6 +15,10 @@ GSON
 
 JSON
 
+Riot API to retrieve data
+
+
+Note** If you try to download this and run it , it will not run, the API key used is for 24 hours, never bothered to get one that will last longer. 
 
 <img width="717" alt="screen shot 2018-10-21 at 11 53 49 pm" src="https://user-images.githubusercontent.com/23414656/47306910-ae257c80-d5fb-11e8-86da-9daf0071254d.png">
 
